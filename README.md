@@ -32,7 +32,7 @@ put - https://week7booklist-api.herokuapp.com/book/
 n.b. id must exist in the list and title field is required
 
 ### Delete an item (using id)
-delete - https://week7booklist-api.herokuapp.com/book/3
+delete - https://week7booklist-api.herokuapp.com/book/
 
 n.b. id must exist in the list
 
